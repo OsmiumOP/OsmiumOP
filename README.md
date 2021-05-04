@@ -50,7 +50,7 @@
 
 <p align="center">
 
-  <a href="https://discord.gg/bfPKqNhQPQ">
+  <a href="https://discord.gg/jrNxkpVaJU">
     <img alt="Discord" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Discord_Color_Text_Logo.svg/512px-Discord_Color_Text_Logo.svg.png"/>
      <br>
      <a href="https://github.com/osmiumop">
