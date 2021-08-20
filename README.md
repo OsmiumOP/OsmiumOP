@@ -14,10 +14,9 @@
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/workbench.svg"/>
 
 <h2 align="left">About Me</h2>
-
 <p align="left">
   <samp>
-    <br><br>
+    <br>
     DiscordJS developer
     <br><br>
     FiveM Scripting and Asset Developer
