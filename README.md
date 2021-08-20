@@ -51,7 +51,7 @@
 <p align="center">
 
   <a href="https://discord.gg/jrNxkpVaJU">
-    <img alt="Discord" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Discord_Color_Text_Logo.svg/512px-Discord_Color_Text_Logo.svg.png"/>
+    <img alt="Discord" width="300px" src="https://nektony.com/wp-content/uploads/2019/07/discord-icon.png"/>
   </a>
   
 
