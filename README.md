@@ -77,13 +77,8 @@
   <a href="https://discord.gg/jrNxkpVaJU">
     <img alt="Discord" width="300px" src="https://nektony.com/wp-content/uploads/2019/07/discord-icon.png"/>
   </a>
-  
-
-
 </p>
-
 <hr/>
-
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
