@@ -29,12 +29,12 @@
 <hr/>
 
 <h2 align="center">About</h2>
-
+<!-- 
 - **Platforms :** Windows and Linux
 - **Languages :** <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/LUA-%230175C2.svg?&style=for-the-badge&logo=lua&logoColor=white"/>, 
 
 - **Frameworks :** <img src="https://img.shields.io/badge/DISCORDJS-blue.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>, <img src="https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-
+ -->
 ### Languages and Tools 🛠 
 
 <!-- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
