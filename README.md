@@ -13,6 +13,8 @@
 
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/workbench.svg"/>
 
+<h2 align="left">About Me</h2>
+
 <p align="left">
   <samp>
     <br><br>
@@ -20,15 +22,14 @@
     <br><br>
     FiveM Scripting and Asset Developer
     <br><br>
-    Focusing on Quality Assets
+    Learning NodeJS
     <br><br> 
-    & native applications...
+    & Puppeteer
   </samp>
 </p>
 
 <hr/>
 
-<h2 align="center">About</h2>
 <!-- 
 - **Platforms :** Windows and Linux
 - **Languages :** <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/LUA-%230175C2.svg?&style=for-the-badge&logo=lua&logoColor=white"/>, 
