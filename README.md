@@ -75,7 +75,7 @@
 <p align="center">
 
   <a href="https://discord.gg/jrNxkpVaJU">
-    <img alt="Discord" width="300px" src="https://nektony.com/wp-content/uploads/2019/07/discord-icon.png"/>
+    <img alt="Discord" width="150px" src="https://nektony.com/wp-content/uploads/2019/07/discord-icon.png"/>
   </a>
 </p>
 <hr/>
