@@ -17,13 +17,13 @@
 <p align="left">
   <samp>
     <br>
-    DiscordJS developer
-    <br><br>
     FiveM Scripting and Asset Developer
     <br><br>
-    Learning NodeJS
+    Learning Python and Django
+    <br><br>
+    Worked with NodeJS
     <br><br> 
-    & Puppeteer
+    & a lot of more stuff 😄
   </samp>
 </p>
 
